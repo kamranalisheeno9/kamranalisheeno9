@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything. 
 - ⚡ Fun fact: I love playing games.
-- 💻 [https://kk-developer.vercel.app/ ](https://kk-developer.vercel.app/)
+- 💻 [https://kk-developer.vercel.app/ ](https://m-mithal-portfolio-9.vercel.app/)
 
 I'm a self-taught passionate Front End Developer from Pakistan PK. I love being in this line of work because I'm passionate about programming and development.
 
