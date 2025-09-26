@@ -1,234 +1,224 @@
-# 👋 Hi, I'm Muhammad Mithal Sheeno
+# 👨‍💻 Muhammad Mithal Sheeno
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+from+Pakistan+🇵🇰;4%2B+Years+of+Experience;MERN+Stack+Developer;Building+Amazing+User+Experiences;Always+Learning+%26+Growing)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+Full-Stack+Engineer;Founder+of+devtoolslib.com+🚀;4%2B+Years+of+Experience+in+MERN+Stack;Building+Scalable+Web+Applications;From+Pakistan+🇵🇰+to+Global+Impact)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://m-mithal-portfolio-9.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-mithal-sheeno-34521b2ab)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamranalisheeno9@gmail.com)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF6B35?style=for-the-badge&logoColor=white&labelColor=1a1b27)](https://m-mithal-portfolio-9.vercel.app/)
+[![DevToolsLib](https://img.shields.io/badge/🔧_DevToolsLib-Founder-00D9FF?style=for-the-badge&logoColor=white&labelColor=1a1b27)](https://devtoolslib.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white&labelColor=1a1b27)](https://linkedin.com/in/muhammad-mithal-sheeno-34521b2ab)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logoColor=white&labelColor=1a1b27)](mailto:kamranalisheeno9@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
 
-I'm a passionate **Frontend Developer** with **4+ years of experience** specializing in modern web technologies. I create highly optimized, SEO-friendly single-page applications with clean, scalable, and maintainable code.
+## 🎯 Who Am I?
 
-- 🔭 Currently working at **Turingoid Software House** as a Frontend Developer
-- 🌱 Expanding my skills towards becoming a proficient **MERN Stack Developer**
-- 🎯 Focused on building reusable components and seamless API integrations
-- 🎮 **Fun fact:** I love playing games and exploring new technologies in my free time
-- 🌍 Based in **Pakistan** 🇵🇰
-- 💼 **Portfolio:** [https://m-mithal-portfolio-9.vercel.app/](https://m-mithal-portfolio-9.vercel.app/)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+🚀 **Full-Stack Developer**
+
+- 🏢 **Frontend Developer** at **Turingoid Software House**
+- 🌟 **Founder** of **[devtoolslib.com](https://devtoolslib.com)** - Empowering developers with cutting-edge tools
+- 💼 **4+ years** crafting exceptional web experiences
+- 🎯 **MERN Stack Specialist** with a passion for clean, scalable code
+- 🌍 Based in **Pakistan** 🇵🇰, impacting developers globally
+- ⭐ **4.9/5** rated on Fiverr with **59+ reviews**
+- 🎮 **Fun fact:** Gaming enthusiast and tech explorer
+
+<br clear="right"/>
 
 ---
 
-## 🎯 Services I Offer
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-| 🎨 **Frontend Development** | 🔧 **Full-Stack Solutions** | ⚡ **Optimization & More** |
-|:--:|:--:|:--:|
-| **React.js & Next.js** SPAs | **MERN Stack** Development | **Performance** Optimization |
-| **Vue.js & Nuxt.js** Applications | **RESTful APIs** & GraphQL | **SEO-Friendly** Web Apps |
-| **PSD/Figma to Code** Conversion | **Database** Design & Integration | **Responsive** Design Implementation |
-| **Component Libraries** Development | **Authentication** Systems | **Code Quality** & Maintainability |
+### 🎨 Frontend Mastery
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,typescript,javascript,html,css&theme=dark" />
 
-</div>
-
-### 🏆 Featured Project Portfolio
-Based on your Fiverr showcase, here are some highlighted projects:
-
-- **🎮 NFT Marketplace** - "My Woas-NFT Selling Marketplace" with filtering and trading features
-- **🎰 Gaming Application** - React.js slot machine game with complex logic implementation  
-- **🌍 Tourism Platform** - "Leisure Tours" responsive website for tour company
-- **🤖 AI Integration** - AI Image Generator and ChatGPT integration project
-- **📊 Data Visualization** - Interactive dashboards and analytics platforms
-- **🏢 Business Solutions** - Motor company websites and corporate platforms
-- **🎨 Creative Portfolios** - Designer and graphics portfolios with modern UI/UX
-
----
-
-## 💻 Tech Stack
-
-### 🎨 Frontend Technologies
-<div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
-
-### 🎯 UI/UX & Styling
-<div align="left">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer Motion"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</div>
+### 🎭 Styling & Animation
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 
 ### 🔧 Backend & Database
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
 
-### 🛠️ Tools & Others
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+### 🛠️ Tools & Deployment
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,yarn,webpack&theme=dark" />
+
 </div>
 
 ---
 
-## 💼 Professional Experience
+## 📊 Performance Dashboard
 
-### 🏢 Current Position
-**Frontend Developer** at **Turingoid Software House**  
+<div align="center">
+
+### 🔥 GitHub Streak & Activity
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamranalisheeno9&theme=neon-dark&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" width="800" />
+
+### 📈 GitHub Analytics
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kamranalisheeno9&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=FFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranalisheeno9&layout=donut&theme=neon&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFF&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+### 🎯 Code Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamranalisheeno9&custom_title=Muhammad%20Mithal%20Sheeno's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=FF6B35&point=FFFFFF&area=true&hide_border=true&area_color=00D9FF" alt="Contribution Graph" />
+
+### 🏆 Achievement Gallery
+<img src="https://github-profile-trophy.vercel.app/?username=kamranalisheeno9&theme=matrix&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🌟 Featured Projects & Ventures
+
+<div align="center">
+
+### 🚀 devtoolslib.com - My Latest Venture
+<img src="https://img.shields.io/badge/🔧_DevToolsLib-Founder_%26_Creator-00D9FF?style=for-the-badge&logoColor=white&labelColor=1a1b27" />
+
+*Empowering developers worldwide with essential tools and resources*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd5-8eac-9e50a8bf5b4e.gif" width="400">
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 Featured Portfolio
+- **🌐 NFT Marketplace** - Modern trading platform
+- **🎰 Gaming Applications** - Interactive React games
+- **🏢 Business Solutions** - Corporate web platforms
+- **🤖 AI Integration** - ChatGPT & AI tools
+- **📊 Data Visualization** - Analytics dashboards
+- **🎨 Creative Portfolios** - Designer showcases
+
+</td>
+<td width="50%">
+
+### 💼 Professional Impact
+- **⭐ 4.9/5 Rating** on Fiverr
+- **59+ Verified Reviews**
+- **29+ Portfolio Projects**
+- **100% Client Satisfaction**
+- **Global Client Base**
+- **Expert in MERN Stack**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Professional Journey
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd5-8eac-9e50a8bf5b4e.gif" width="200">
+</div>
+
+### 🏢 Current Role
+**Frontend Developer** | **Turingoid Software House**  
 *January 2024 - Present*
-- Developing modern web applications using React.js, Next.js, and Vue.js
-- Building reusable component libraries and maintaining code quality
-- Collaborating with design teams to implement pixel-perfect UI/UX
+- 🔧 Building modern web applications with React.js, Next.js & Vue.js
+- 🎨 Creating reusable component libraries
+- 👥 Collaborating with design teams for pixel-perfect implementations
 
-### 🌐 Fiverr Freelance Developer
-[@kamranali19](http://fiverr.com/kamranali19)  
-*May 2022 - July 2023 & Continuing Success*
-- ⭐ **4.9/5 Star Rating** with **59 verified reviews**
-- 🏆 **29+ Portfolio Projects** showcasing diverse expertise
-- 💼 **100% Client Satisfaction** with consistent 5-star feedback
-- 🚀 Specialized in **React.js**, **Next.js**, **Vue.js** development
-- 🎯 **Expert Services**: SPA Development, NFT Marketplaces, Gaming Apps
-- 🌍 **Global Client Base**: USA, Canada, Hong Kong, Pakistan, and more
-- ⚡ **Quick Turnaround**: Professional delivery with attention to detail
-- 💰 **Proven Revenue Stream** with recurring client relationships
+### 🌟 Entrepreneurial Venture
+**Founder & Creator** | **devtoolslib.com**  
+*2024 - Present*
+- 🚀 Building essential tools for developers worldwide
+- 📈 Growing platform with innovative solutions
+- 🌍 Impacting the global developer community
 
-**Frontend Developer** at **Choreless**  
-*March 2024 - August 2024*
-- Contributed to building scalable web applications
-- Implemented responsive designs and API integrations
+### 🌐 Freelance Success
+**Fiverr**  
+*May 2022 - July 2023 & Ongoing*
+- ⭐ 4.9/5 star rating with 59+ reviews
+- 🏆 29+ diverse portfolio projects
+- 💰 Consistent revenue stream with global clients
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kamranalisheeno9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamranalisheeno9&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranalisheeno9&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most Used Languages" />
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamranalisheeno9&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamranalisheeno9&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🎯 Key Specializations
+## 🎯 Core Specializations
 
 <details>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b>🎨 Frontend Excellence</b></summary>
+<br/>
 
-- **Single Page Applications (SPAs)** using React.js, Next.js, Vue.js, and Nuxt.js
-- **Component-Based Architecture** for reusable and maintainable code
-- **Responsive Design Implementation** from Figma, PSD, and XD files
-- **State Management** using Context API, Redux, and Vuex
-- **Modern CSS** with Tailwind CSS and CSS-in-JS solutions
+- **⚡ Single Page Applications** - React.js, Next.js, Vue.js, Nuxt.js
+- **🔄 State Management** - Context API, Redux, Vuex, Zustand
+- **🎭 Modern Styling** - Tailwind CSS, Styled Components, Emotion
+- **📱 Responsive Design** - Mobile-first approach, Cross-browser compatibility
+- **🚀 Performance Optimization** - Code splitting, Lazy loading, Bundle optimization
 
 </details>
 
 <details>
-<summary><b>🔧 Full-Stack Capabilities</b></summary>
+<summary><b>🔧 Full-Stack Power</b></summary>
+<br/>
 
-- **MERN Stack Development** (MongoDB, Express.js, React.js, Node.js)
-- **RESTful API Development** and GraphQL implementation
-- **Database Design** and optimization (MongoDB, MySQL)
-- **Authentication & Authorization** systems
-- **Server-Side Rendering (SSR)** with Next.js and Nuxt.js
-
-</details>
-
-<details>
-<summary><b>⚡ Performance & SEO</b></summary>
-
-- **Performance Optimization** for faster load times
-- **SEO-Friendly Applications** with Next.js built-in capabilities
-- **Code Splitting** and lazy loading implementation
-- **Core Web Vitals** optimization
-- **Accessibility (a11y)** best practices
+- **🌐 MERN Stack** - MongoDB, Express.js, React.js, Node.js
+- **🗄️ Database Management** - MongoDB, MySQL with Sequelize ORM
+- **📡 API Development** - RESTful services, GraphQL implementation
+- **🔐 Authentication** - JWT, OAuth, Session management
+- **🚀 Server-Side Rendering** - Next.js, Nuxt.js optimization
 
 </details>
 
 ---
 
-
-## 🤝 Let's Connect & Collaborate
+## 🌟 Client Testimonials
 
 <div align="center">
-  
-### 🌟 "Clean code always looks like it was written by someone who cares." - Robert C. Martin
 
-I'm always open to discussing new opportunities, collaborations, and interesting projects. Whether you need a dynamic, responsive web application or want to enhance the performance and scalability of your existing platform, I bring the skills, adaptability, and dedication needed to help you achieve your goals.
+*"Exceptional work! Muhammad delivered beyond expectations."* ⭐⭐⭐⭐⭐  
+*"Professional, fast, and high-quality results every time."* ⭐⭐⭐⭐⭐  
+*"Best React developer I've worked with on Fiverr!"* ⭐⭐⭐⭐⭐  
+
+</div>
+
+---
+
+## 📫 Let's Build Something Amazing
+
+<div align="center">
+
+### 🌟 Ready to Transform Your Ideas into Reality?
 
 <br/>
 
-**🌐 Fiverr Profile:** [fiverr.com/kamranali19](http://fiverr.com/kamranali19)  
-**📧 Email:** [kamranalisheeno9@gmail.com](mailto:kamranalisheeno9@gmail.com)  
-**🌐 Portfolio:** [m-mithal-portfolio-9.vercel.app](https://m-mithal-portfolio-9.vercel.app/)  
-**💼 LinkedIn:** [Muhammad Mithal Sheeno](https://linkedin.com/in/muhammad-mithal-sheeno-34521b2ab)
+[![DevToolsLib](https://img.shields.io/badge/🔧_DevToolsLib-Visit_My_Platform-00D9FF?style=for-the-badge&logoColor=white&labelColor=1a1b27)](https://devtoolslib.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-FF6B35?style=for-the-badge&logoColor=white&labelColor=1a1b27)](https://m-mithal-portfolio-9.vercel.app/)
+[![Fiverr](https://img.shields.io/badge/💼_Fiverr-Hire_Me_Now-1DBF73?style=for-the-badge&logoColor=white&labelColor=1a1b27)](http://fiverr.com/kamranali19)
+[![LinkedIn](https://img.shields.io/badge/🤝_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logoColor=white&labelColor=1a1b27)](https://linkedin.com/in/muhammad-mithal-sheeno-34521b2ab)
+[![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-EA4335?style=for-the-badge&logoColor=white&labelColor=1a1b27)](mailto:kamranalisheeno9@gmail.com)
 
 <br/>
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](http://fiverr.com/kamranali19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-mithal-sheeno-34521b2ab)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://m-mithal-portfolio-9.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamranalisheeno9@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamranalisheeno9)
-
-</div>
-
 ---
 
-<div align="center">
-  
-**Thanks for visiting my profile! Let's build something amazing together! 🚀**
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kamranalisheeno9&color=36BCF7&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/kamranalisheeno9?style=for-the-badge&color=36BCF7)
-![Stars](https://img.shields.io/github/stars/kamranalisheeno9?style=for-the-badge&color=36BCF7)
+### 🚀 Thanks for visiting! Let's create the future together! 🌟
 
 </div>
