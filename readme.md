@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF6B35?style=for-the-badge&logoColor=white&labelColor=1a1b27)](https://m-mithal-portfolio-9.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF6B35?style=for-the-badge&logoColor=white&labelColor=1a1b27)](https://mmithal.vercel.app/)
 [![DevToolsLib](https://img.shields.io/badge/🔧_DevToolsLib-Founder-00D9FF?style=for-the-badge&logoColor=white&labelColor=1a1b27)](https://devtoolslib.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white&labelColor=1a1b27)](https://linkedin.com/in/muhammad-mithal-sheeno-34521b2ab)
 [![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logoColor=white&labelColor=1a1b27)](mailto:kamranalisheeno9@gmail.com)
@@ -208,7 +208,7 @@
 <br/>
 
 [![DevToolsLib](https://img.shields.io/badge/🔧_DevToolsLib-Visit_My_Platform-00D9FF?style=for-the-badge&logoColor=white&labelColor=1a1b27)](https://devtoolslib.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-FF6B35?style=for-the-badge&logoColor=white&labelColor=1a1b27)](https://m-mithal-portfolio-9.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-FF6B35?style=for-the-badge&logoColor=white&labelColor=1a1b27)](https://mmithal.vercel.app/)
 [![Fiverr](https://img.shields.io/badge/💼_Fiverr-Hire_Me_Now-1DBF73?style=for-the-badge&logoColor=white&labelColor=1a1b27)](http://fiverr.com/kamranali19)
 [![LinkedIn](https://img.shields.io/badge/🤝_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logoColor=white&labelColor=1a1b27)](https://linkedin.com/in/muhammad-mithal-sheeno-34521b2ab)
 [![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-EA4335?style=for-the-badge&logoColor=white&labelColor=1a1b27)](mailto:kamranalisheeno9@gmail.com)
